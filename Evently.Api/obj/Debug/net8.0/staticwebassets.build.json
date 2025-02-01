@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IB996RtbZDeUpaoQHFmZWCVuYg4A6Hf3fZ+3xtOIQOc=",
+  "Source": "Evently.Api",
+  "BasePath": "_content/Evently.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

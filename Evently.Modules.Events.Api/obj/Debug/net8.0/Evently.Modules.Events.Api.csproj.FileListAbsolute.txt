@@ -1,0 +1,12 @@
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\bin\Debug\net8.0\Evently.Modules.Events.Api.deps.json
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\bin\Debug\net8.0\Evently.Modules.Events.Api.dll
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\bin\Debug\net8.0\Evently.Modules.Events.Api.pdb
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.csproj.AssemblyReference.cache
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.AssemblyInfoInputs.cache
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.AssemblyInfo.cs
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.csproj.CoreCompileInputs.cache
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.dll
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\refint\Evently.Modules.Events.Api.dll
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.pdb
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\ref\Evently.Modules.Events.Api.dll
