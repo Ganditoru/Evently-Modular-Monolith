@@ -10,3 +10,4 @@ C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modul
 C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\refint\Evently.Modules.Events.Api.dll
 C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.pdb
 C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\ref\Evently.Modules.Events.Api.dll
+C:\Work\Whisky\Evently\Evently.Modules.Events.Api\obj\Debug\net8.0\Evently.Modules.Events.Api.sourcelink.json
