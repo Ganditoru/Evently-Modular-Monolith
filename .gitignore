@@ -336,7 +336,7 @@ secrets.tfvars
 secrets.*.tfvars
 
 
-**/appsettings.Development.json 
+**/appsettings.Development.json
 **/messagebus.development.json
 
 # Logs #
