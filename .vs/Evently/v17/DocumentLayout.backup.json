@@ -3,20 +3,35 @@
   "WorkspaceRootPath": "C:\\Work\\Whisky\\Evently\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D9A78FE-52E7-4924-ABB7-2D213C62D79E}|Evently.Modules.Events.Infrastructure\\Evently.Modules.Events.Infrastructure.csproj|c:\\work\\whisky\\evently\\evently.modules.events.infrastructure\\events\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D9A78FE-52E7-4924-ABB7-2D213C62D79E}|Evently.Modules.Events.Infrastructure\\Evently.Modules.Events.Infrastructure.csproj|solutionrelative:evently.modules.events.infrastructure\\events\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7156459E-2A18-408A-A94F-FE0E6BE7EFE1}|docker-compose.dcproj|c:\\work\\whisky\\evently\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7156459E-2A18-408A-A94F-FE0E6BE7EFE1}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D9A78FE-52E7-4924-ABB7-2D213C62D79E}|Evently.Modules.Events.Infrastructure\\Evently.Modules.Events.Infrastructure.csproj|c:\\work\\whisky\\evently\\evently.modules.events.infrastructure\\eventsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D9A78FE-52E7-4924-ABB7-2D213C62D79E}|Evently.Modules.Events.Infrastructure\\Evently.Modules.Events.Infrastructure.csproj|solutionrelative:evently.modules.events.infrastructure\\eventsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8354587D-C6C3-4EC9-848C-FE9819A0B6F9}|Evently.Api\\Evently.Api.csproj|c:\\work\\whisky\\evently\\evently.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8354587D-C6C3-4EC9-848C-FE9819A0B6F9}|Evently.Api\\Evently.Api.csproj|solutionrelative:evently.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156459E-2A18-408A-A94F-FE0E6BE7EFE1}|docker-compose.dcproj|c:\\work\\whisky\\evently\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7156459E-2A18-408A-A94F-FE0E6BE7EFE1}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63412A50-6A63-4DE5-94D1-130A7A85A772}|Evently.Modules.Events.Application\\Evently.Modules.Events.Application.csproj|c:\\work\\whisky\\evently\\evently.modules.events.application\\events\\createevent\\createeventcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63412A50-6A63-4DE5-94D1-130A7A85A772}|Evently.Modules.Events.Application\\Evently.Modules.Events.Application.csproj|solutionrelative:evently.modules.events.application\\events\\createevent\\createeventcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F15931-D4BC-49DC-B625-8FE45A0FA5E2}|Evently.Modules.Events.Domain\\Evently.Modules.Events.Domain.csproj|c:\\work\\whisky\\evently\\evently.modules.events.domain\\events\\eventcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F15931-D4BC-49DC-B625-8FE45A0FA5E2}|Evently.Modules.Events.Domain\\Evently.Modules.Events.Domain.csproj|solutionrelative:evently.modules.events.domain\\events\\eventcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63412A50-6A63-4DE5-94D1-130A7A85A772}|Evently.Modules.Events.Application\\Evently.Modules.Events.Application.csproj|c:\\work\\whisky\\evently\\evently.modules.events.application\\events\\createevent\\createeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63412A50-6A63-4DE5-94D1-130A7A85A772}|Evently.Modules.Events.Application\\Evently.Modules.Events.Application.csproj|solutionrelative:evently.modules.events.application\\events\\createevent\\createeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F15931-D4BC-49DC-B625-8FE45A0FA5E2}|Evently.Modules.Events.Domain\\Evently.Modules.Events.Domain.csproj|c:\\work\\whisky\\evently\\evently.modules.events.domain\\events\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F15931-D4BC-49DC-B625-8FE45A0FA5E2}|Evently.Modules.Events.Domain\\Evently.Modules.Events.Domain.csproj|solutionrelative:evently.modules.events.domain\\events\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F90E3D4-BCEB-494E-9611-6B1C0BA6B6AB}|Evently.Modules.Events.Presentation\\Evently.Modules.Events.Presentation.csproj|c:\\work\\whisky\\evently\\evently.modules.events.presentation\\events\\createevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F90E3D4-BCEB-494E-9611-6B1C0BA6B6AB}|Evently.Modules.Events.Presentation\\Evently.Modules.Events.Presentation.csproj|solutionrelative:evently.modules.events.presentation\\events\\createevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,54 +50,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EventsModule.cs",
-              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Infrastructure\\EventsModule.cs",
-              "RelativeDocumentMoniker": "Evently.Modules.Events.Infrastructure\\EventsModule.cs",
-              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Infrastructure\\EventsModule.cs",
-              "RelativeToolTip": "Evently.Modules.Events.Infrastructure\\EventsModule.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAWwD4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:01:00.749Z",
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAuwK4BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-10T08:04:05.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventRepository.cs",
-              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Infrastructure\\Events\\EventRepository.cs",
-              "RelativeDocumentMoniker": "Evently.Modules.Events.Infrastructure\\Events\\EventRepository.cs",
-              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Infrastructure\\Events\\EventRepository.cs",
-              "RelativeToolTip": "Evently.Modules.Events.Infrastructure\\Events\\EventRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:00:27.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateEventCommandHandler.cs",
-              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandHandler.cs",
-              "RelativeDocumentMoniker": "Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandHandler.cs",
-              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandHandler.cs",
-              "RelativeToolTip": "Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:00:02.107Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Work\\Whisky\\Evently\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-10T07:31:17.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IEventRepository.cs",
-              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Domain\\Events\\IEventRepository.cs",
-              "RelativeDocumentMoniker": "Evently.Modules.Events.Domain\\Events\\IEventRepository.cs",
-              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Domain\\Events\\IEventRepository.cs",
-              "RelativeToolTip": "Evently.Modules.Events.Domain\\Events\\IEventRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T19:59:48.668Z",
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Work\\Whisky\\Evently\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-10T07:31:11.528Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Evently.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Evently.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T09:21:42.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEventCommandValidator.cs",
+              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandValidator.cs",
+              "RelativeDocumentMoniker": "Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandValidator.cs",
+              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandValidator.cs",
+              "RelativeToolTip": "Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:18:19.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEventCommandHandler.cs",
+              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandHandler.cs",
+              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandHandler.cs",
+              "RelativeToolTip": "Evently.Modules.Events.Application\\Events\\CreateEvent\\CreateEventCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:54:42.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEvent.cs",
+              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Presentation\\Events\\CreateEvent.cs",
+              "RelativeDocumentMoniker": "Evently.Modules.Events.Presentation\\Events\\CreateEvent.cs",
+              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Presentation\\Events\\CreateEvent.cs",
+              "RelativeToolTip": "Evently.Modules.Events.Presentation\\Events\\CreateEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:45:09.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventCreatedDomainEvent.cs",
+              "DocumentMoniker": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Domain\\Events\\EventCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "Evently.Modules.Events.Domain\\Events\\EventCreatedDomainEvent.cs",
+              "ToolTip": "C:\\Work\\Whisky\\Evently\\Evently.Modules.Events.Domain\\Events\\EventCreatedDomainEvent.cs",
+              "RelativeToolTip": "Evently.Modules.Events.Domain\\Events\\EventCreatedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:32:39.381Z"
             }
           ]
         }

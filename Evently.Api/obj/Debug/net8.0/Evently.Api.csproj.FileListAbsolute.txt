@@ -151,3 +151,4 @@ C:\Work\Whisky\Evently\Evently.Api\obj\Debug\net8.0\refint\Evently.Api.dll
 C:\Work\Whisky\Evently\Evently.Api\obj\Debug\net8.0\Evently.Api.pdb
 C:\Work\Whisky\Evently\Evently.Api\obj\Debug\net8.0\Evently.Api.genruntimeconfig.cache
 C:\Work\Whisky\Evently\Evently.Api\obj\Debug\net8.0\ref\Evently.Api.dll
+C:\Work\Whisky\Evently\Evently.Api\obj\Debug\net8.0\Evently.Api.MvcApplicationPartsAssemblyInfo.cs
