@@ -1,4 +1,6 @@
-﻿namespace Evently.Modules.Events.Application.Events.GetEvent;
+﻿using Evently.Modules.Events.Domain.Events;
+
+namespace Evently.Modules.Events.Application.Events.GetEvent;
 
 public sealed record EventResponse(
     Guid Id,
@@ -6,4 +8,5 @@ public sealed record EventResponse(
     string Description,
     string Location,
     DateTime StartsAtUtc,
-    DateTime? EndsAtUtc);
+    DateTime? EndsAtUtc,
+    EventStatus Status);
