@@ -1,8 +1,8 @@
-﻿namespace Evently.Modules.Events.Domain.Abstractions;
+﻿namespace Evently.Modules.Events.Domain.Abstraction;
 
 public interface IDomainEvent
 {
     Guid Id { get; }
 
-    DateTime OccurredOnUtc { get; }
+    DateTime OccuredOnUtc { get; }
 }

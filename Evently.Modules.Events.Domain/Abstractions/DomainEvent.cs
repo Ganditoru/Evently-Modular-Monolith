@@ -1,20 +1,14 @@
-﻿namespace Evently.Modules.Events.Domain.Abstractions;
+﻿namespace Evently.Modules.Events.Domain.Abstraction;
 
 public abstract class DomainEvent : IDomainEvent
 {
     protected DomainEvent()
     {
         Id = Guid.NewGuid();
-        OccurredOnUtc = DateTime.UtcNow;
-    }
-
-    protected DomainEvent(Guid id, DateTime occuredOnUtc)
-    {
-        Id = id;
-        OccurredOnUtc = occuredOnUtc;
+        OccuredOnUtc = DateTime.UtcNow;
     }
 
     public Guid Id { get; init; }
 
-    public DateTime OccurredOnUtc { get; init; }
+    public DateTime OccuredOnUtc { get; init; }
 }

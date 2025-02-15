@@ -1,4 +1,4 @@
-﻿namespace Evently.Modules.Events.Domain.Abstractions;
+﻿namespace Evently.Modules.Events.Domain.Abstraction;
 
 public abstract class Entity
 {
@@ -6,12 +6,11 @@ public abstract class Entity
 
     protected Entity()
     {
-
     }
 
-    public IReadOnlyCollection<IDomainEvent> DomainEvents => _domainEvents.ToList();
+    public IReadOnlyCollection<IDomainEvent> DomainEvents => [.. _domainEvents];
 
-    public void ClearDomainEvent()
+    public void ClearDomainEvents()
     {
         _domainEvents.Clear();
     }

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Common;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.Common;
 
 namespace Evently.Modules.Events.Application.Abstractions.Data;
-public  interface IDbConnectionFactory
+
+public interface IDbConnectionFactory
 {
     ValueTask<DbConnection> OpenConnectionAsync();
 }
