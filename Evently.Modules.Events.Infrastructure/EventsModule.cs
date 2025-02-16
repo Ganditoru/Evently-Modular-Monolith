@@ -4,14 +4,12 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Evently.Modules.Events.Application.Events;
 using Evently.Modules.Events.Presentation.Events;
 using Evently.Modules.Events.Domain.Events;
 using Evently.Modules.Events.Application.Abstractions.Data;
 using Npgsql;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Evently.Modules.Events.Infrastructure.Data;
-using Evently.Modules.Events.Application;
 using FluentValidation;
 using Evently.Modules.Events.Infrastructure.Events;
 

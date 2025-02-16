@@ -27,7 +27,9 @@ public sealed class Event : Entity
         string description,
         string location,
         DateTime startsAtUtc,
-        DateTime? endsAtUtc)
+        DateTime? endsAtUtc,
+        EventStatus? eventStatus = null
+        )
     {
         var @event = new Event()
         {
@@ -37,7 +39,7 @@ public sealed class Event : Entity
             Location = location,
             StartsAtUtc = startsAtUtc,
             EndsAtUtc = endsAtUtc,
-            Status = EventStatus.Draft
+            Status = eventStatus ?? EventStatus.Draft
         };
 
         @event.Raise(new EventCreatedDomainEvent(@event.Id));

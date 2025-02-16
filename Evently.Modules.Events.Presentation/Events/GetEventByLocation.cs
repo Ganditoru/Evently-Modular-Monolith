@@ -10,7 +10,7 @@ internal static class GetEventByLocation
 {
     public static void MapEndpoint(IEndpointRouteBuilder app)
     {
-        app.MapGet("eventsLocation", async (string? location, ISender sender) =>
+        app.MapGet("events-location", async (string? location, ISender sender) =>
         {
             EventResponse @event = await sender.Send(new GetEventByLocationQuerry(location));
 
