@@ -5,10 +5,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="MediatR" Version="12.4.1" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<ProjectReference Include="..\Evently.Modules.Events.Application\Evently.Modules.Events.Application.csproj" />
 	</ItemGroup>
 

@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using FluentValidation;
+﻿using FluentValidation;
 
 namespace Evently.Modules.Events.Application.TicketTypes.CreateTicketType;
 internal sealed class CreateTicketTypeCommandValidator : AbstractValidator<CreateTicketTypeCommand>

@@ -1,4 +1,4 @@
-﻿namespace Evently.Modules.Events.Domain.Abstraction;
+﻿namespace Evently.Common.Domain;
 
 public abstract class DomainEvent : IDomainEvent
 {
