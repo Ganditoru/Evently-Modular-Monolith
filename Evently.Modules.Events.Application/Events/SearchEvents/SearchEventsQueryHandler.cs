@@ -46,7 +46,7 @@ internal sealed class SearchEventsQueryHandler(IDbConnectionFactory dbConnection
                  location AS {nameof(EventResponse.Location)},
                  starts_at_utc AS {nameof(EventResponse.StartsAtUtc)},
                  ends_at_utc AS {nameof(EventResponse.EndsAtUtc)}
-             FROM events.events
+             FROM "events-main".events
              WHERE
                 status = @Status AND
                 (@CategoryId IS NULL OR category_id = @CategoryId) AND
@@ -67,7 +67,7 @@ internal sealed class SearchEventsQueryHandler(IDbConnectionFactory dbConnection
         const string sql =
             """
             SELECT COUNT(*)
-            FROM events.events
+            FROM "events-main".events
             WHERE
                status = @Status AND
                (@CategoryId IS NULL OR category_id = @CategoryId) AND

@@ -29,8 +29,8 @@ internal sealed class GetEventQueryHandler(IDbConnectionFactory dbConnectionFact
                  tt.price AS {nameof(TicketTypeResponse.Price)},
                  tt.currency AS {nameof(TicketTypeResponse.Currency)},
                  tt.quantity AS {nameof(TicketTypeResponse.Quantity)}
-             FROM events.events e
-             LEFT JOIN events.ticket_types tt ON tt.event_id = e.id
+             FROM "events-main".events e
+             LEFT JOIN "events-main".ticket_types tt ON tt.event_id = e.id
              WHERE e.id = @EventId
              """;
 

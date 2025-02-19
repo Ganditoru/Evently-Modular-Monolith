@@ -24,7 +24,7 @@ internal sealed class GetTicketTypesQueryHandler(IDbConnectionFactory dbConnecti
                  price AS {nameof(TicketTypeResponse.Price)},
                  currency AS {nameof(TicketTypeResponse.Currency)},
                  quantity AS {nameof(TicketTypeResponse.Quantity)}
-             FROM events.ticket_types
+             FROM "events-main".ticket_types
              WHERE event_id = @EventId
              """;
 
