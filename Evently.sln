@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evently.Common.Domain", "Ev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evently.Common.Infrastructure", "Evently.Common.Infrastructure\Evently.Common.Infrastructure.csproj", "{6100B65B-2162-4560-B979-A636812C8267}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evently.Common.Presentation", "Evently.Common.Presentation\Evently.Common.Presentation.csproj", "{A6EAF4B0-5456-4B5B-86E7-7DD464CFF1F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{6100B65B-2162-4560-B979-A636812C8267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6100B65B-2162-4560-B979-A636812C8267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6100B65B-2162-4560-B979-A636812C8267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EAF4B0-5456-4B5B-86E7-7DD464CFF1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EAF4B0-5456-4B5B-86E7-7DD464CFF1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EAF4B0-5456-4B5B-86E7-7DD464CFF1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EAF4B0-5456-4B5B-86E7-7DD464CFF1F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,5 +103,6 @@ Global
 		{071C4343-CB64-4F12-9FF3-143991298B6D} = {89B39033-5336-46BB-8AFF-A8663AADE9E0}
 		{8B8F2E17-F57A-45A1-AA9F-6D37F56BDFF0} = {89B39033-5336-46BB-8AFF-A8663AADE9E0}
 		{6100B65B-2162-4560-B979-A636812C8267} = {89B39033-5336-46BB-8AFF-A8663AADE9E0}
+		{A6EAF4B0-5456-4B5B-86E7-7DD464CFF1F1} = {89B39033-5336-46BB-8AFF-A8663AADE9E0}
 	EndGlobalSection
 EndGlobal
