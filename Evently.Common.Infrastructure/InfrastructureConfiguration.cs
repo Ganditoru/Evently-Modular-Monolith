@@ -4,6 +4,7 @@ using Evently.Common.Application.Data;
 using Evently.Common.Clock;
 using Evently.Common.Data;
 using Evently.Common.Infrastructure.Caching;
+using Evently.Common.Infrastructure.Interceptors;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Npgsql;
@@ -23,6 +24,8 @@ public static class InfrastructureConfiguration
 
         services.AddScoped<IDbConnectionFactory, DbConnectionFactory>();
 
+        services.TryAddSingleton<PublishDomainEventsInterceptor>();
+
         services.TryAddSingleton<IDateTimeProvider, DateTimeProvider>();
 
         try
@@ -35,6 +38,7 @@ public static class InfrastructureConfiguration
         }
         catch
         {
+            // daca rulezi proiectul fara docker
             services.AddDistributedMemoryCache();
         }
 
